@@ -8,3 +8,5 @@
 ### D. PDFs:
 
 [Sommer 2014](https://github.com/ts13b/sozialkunde/raw/gh-pages/sozialkunde_sommer_2014.rar)
+
+[Winter 2015/2016](https://github.com/ts13b/sozialkunde/raw/gh-pages/sozialkunde_winter_2015_2016.rar)
