@@ -1,4 +1,4 @@
-## AP2
+## AP2 Übungen
 
 [Sommer 2014](https://forms.gle/cnHbXsF3wFqMStEe7)
 
