@@ -7,6 +7,6 @@
 
 ### D. PDFs:
 
-[Sommer 2014](https://github.com/ts13b/sozialkunde/raw/gh-pages/sozialkunde_sommer_2014.rar)
+[Sommer 2014](https://anonfiles.com/l6r40akdp1/sozialkunde_sommer_2014_rar)
 
-[Winter 2015/2016](https://github.com/ts13b/sozialkunde/raw/gh-pages/sozialkunde_winter_2015_2016.rar)
+[Winter 2015/2016](https://anonfiles.com/far007k7pa/sozialkunde_winter_2015_2016_rar)
