@@ -34,3 +34,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+```json
+   // code for coloring
+```
