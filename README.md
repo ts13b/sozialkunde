@@ -62,3 +62,11 @@
 <div class="text-purple mb-2">
   .text-purple on white
 </div>
+  
+  span {
+    color: blue;
+}
+
+.extra span {
+    color: inherit;
+}
