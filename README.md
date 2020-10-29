@@ -37,8 +37,5 @@
 
 
 ```js
-   JTextArea txt = new JTextArea();
-Font font = new Font("Verdana", Font.BOLD, 12);
-txt.setFont(font);
-txt.setForeground(Color.BLUE);
+   JTextArea
 ```
