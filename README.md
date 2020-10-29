@@ -44,4 +44,3 @@ var colors = {
   blue: 'blue'
 }
 
-var result = colorable(colors, { compact: true, threshold: 0 })
