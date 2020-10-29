@@ -26,8 +26,3 @@
 
 ### Abschlussprüfungen hochladen:
 [zum Upload](https://forms.gle/GqEd1L56UDE3HVfDA)
-
-
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
