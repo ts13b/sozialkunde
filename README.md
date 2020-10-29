@@ -5,6 +5,6 @@
 [Winter 2015/2016](https://forms.gle/y8cEytWb87R44QwY9)
 
 
-### D. PDFs:
+### Alte Abschlussprüfungen:
 
 [Sommer 2012](https://ts13b.github.io/sozialkunde_pdf/sozialkunde_sommer_2012.pdf)
