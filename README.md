@@ -12,3 +12,6 @@
 [Sommer 2014](https://anonfiles.com/l6r40akdp1/sozialkunde_sommer_2014_rar)
 
 [Winter 2015/2016](https://anonfiles.com/far007k7pa/sozialkunde_winter_2015_2016_rar)
+
+
+https://docs.google.com/viewer?url=${link_to_raw_pdf}
