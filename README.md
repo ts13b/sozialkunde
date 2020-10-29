@@ -20,3 +20,5 @@
 [Winter 2015/2016](https://ts13b.github.io/sozialkunde_pdf/sozialkunde_winter_2016_2016.pdf)
 
 [Winter 2017/2018](https://ts13b.github.io/sozialkunde_pdf/sozialkunde_winter_2017_2018.pdf)
+
+[Sommer 2019](https://ts13b.github.io/sozialkunde_pdf/sozialkunde_sommer_2019.pdf)
