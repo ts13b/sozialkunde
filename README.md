@@ -14,4 +14,4 @@
 [Winter 2015/2016](https://anonfiles.com/far007k7pa/sozialkunde_winter_2015_2016_rar)
 
 
-https://docs.google.com/viewer?url=${https://ts13b.github.io/sozialkunde_pdf/}
+https://docs.google.com/viewer?url=${https://ts13b.github.io/sozialkunde_pdf/sozialkunde_sommer_2012.pdf}
