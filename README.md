@@ -36,29 +36,37 @@
 @@ text in purple (and bold)@@
 ```
 
+```html live
 <div class="text-blue mb-2">
-  .text-blue on white
+  .text-blue
 </div>
 <div class="text-gray-dark mb-2">
-  .text-gray-dark on white
+  .text-gray-dark
 </div>
 <div class="text-gray mb-2">
-  .text-gray on white
+  .text-gray
+</div>
+<div class="text-gray-light mb-2">
+  .text-gray-light
 </div>
 <div class="text-red mb-2">
-  .text-red on white
+  .text-red
 </div>
 <div class="text-orange mb-2">
-  .text-orange on white
+  .text-orange
 </div>
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
 <div class="text-orange-light mb-2">
-  .text-orange-light on white
+  .text-orange-light
+  <span class="tooltipped tooltipped-n" aria-label="Does not meet accessibility standards">⚠️</span>
 </div>
-<span class="float-left text-red tooltipped tooltipped-n" aria-label="Does not meet accessibility standards"><%= octicon("alert") %></span>
-<div class="text-green mb-2 ml-4">
-  .text-green on white
+<div class="text-yellow mb-2">
+  .text-yellow
+  <span class="tooltipped tooltipped-n" aria-label="Does not meet accessibility standards">⚠️</span>
+</div>
+<div class="text-green mb-2">
+  .text-green
 </div>
 <div class="text-purple mb-2">
-  .text-purple on white
+  .text-purple
 </div>
+```
