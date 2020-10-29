@@ -26,7 +26,7 @@
 ```diff
 ### Abschlussprüfungen hochladen:
 ```
-`[zum Upload](https://forms.gle/GqEd1L56UDE3HVfDA)`
+[`zum Upload`](https://forms.gle/GqEd1L56UDE3HVfDA)
 
 
 ```diff
