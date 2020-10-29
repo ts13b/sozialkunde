@@ -36,6 +36,6 @@
 ```
 
 
-```css
+```js
    // code for coloring
 ```
