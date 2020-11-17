@@ -27,4 +27,5 @@
 
 ### Abschlussprüfungen hochladen:
 
-[`zum Upload`]
+[zum Upload](https://gofile.io/uploadFiles)
+E-Mail: ts13b@protonmail.com
