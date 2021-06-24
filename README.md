@@ -29,5 +29,5 @@
 
 ### Abschlussprüfungen hochladen:
 
-[zum Upload](https://gofile.io/uploadFiles)
-E-Mail: ts13b@protonmail.com
+[zum Upload](https://datash.co/)
+Recipient ID: 2054
