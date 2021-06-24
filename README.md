@@ -29,5 +29,5 @@
 
 ### Abschlussprüfungen hochladen:
 
-[zum Upload](https://datash.co/)
-Recipient ID: 2054
+[zum Upload](https://upload.disroot.org/)
+E-Mail: ts13b@protonmail.com
