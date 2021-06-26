@@ -32,5 +32,5 @@
 [zum Upload](https://upload.disroot.org/)
 E-Mail: ts13b@protonmail.com
 
-Oder über [Datash](https://datash.co):
+Oder über [Datash](https://datash.co) >
 Recipient ID: 2253
