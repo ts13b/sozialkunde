@@ -31,3 +31,6 @@
 
 [zum Upload](https://upload.disroot.org/)
 E-Mail: ts13b@protonmail.com
+
+Oder über Datash:
+News.: 2253
